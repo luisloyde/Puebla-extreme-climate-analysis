@@ -1,7 +1,7 @@
 # README
 ## Climate Extremes Analysis in Puebla city, Mexico from 1994 to 2024
 ### Overview
-This project uses the meteostat library to analyze climate data from Puebla, Mexico, focusing on precipitation and temperature trends from 1994 to 2024. The primary goal is to identify extreme weather events by calculating percentiles and return periods, and then visualizing these events using seaborn and matplotlib.
+This project uses the meteostat library to analyze climate data from Puebla, Mexico, focusing on precipitation and temperature trends from 1994 to 2024. The primary goal is to identify extreme weather events by calculating percentiles and return periods, and then visualizing these events using seaborn and matplotlib. Moreover, a brief introduction to meteostat is attached.
 
 ### How to use
 1. Data Collection
